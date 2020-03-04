@@ -1,0 +1,13 @@
+D:\feladatok\c#\EloadasProjekt\EloadasProjekt\bin\Debug\NUnit3.TestAdapter.dll
+D:\feladatok\c#\EloadasProjekt\EloadasProjekt\bin\Debug\NUnit3.TestAdapter.pdb
+D:\feladatok\c#\EloadasProjekt\EloadasProjekt\bin\Debug\nunit.engine.dll
+D:\feladatok\c#\EloadasProjekt\EloadasProjekt\bin\Debug\nunit.engine.api.dll
+D:\feladatok\c#\EloadasProjekt\EloadasProjekt\bin\Debug\EloadasProjekt.dll
+D:\feladatok\c#\EloadasProjekt\EloadasProjekt\bin\Debug\EloadasProjekt.pdb
+D:\feladatok\c#\EloadasProjekt\EloadasProjekt\bin\Debug\nunit.framework.dll
+D:\feladatok\c#\EloadasProjekt\EloadasProjekt\bin\Debug\nunit.framework.pdb
+D:\feladatok\c#\EloadasProjekt\EloadasProjekt\bin\Debug\nunit.framework.xml
+D:\feladatok\c#\EloadasProjekt\EloadasProjekt\obj\Debug\EloadasProjekt.csprojAssemblyReference.cache
+D:\feladatok\c#\EloadasProjekt\EloadasProjekt\obj\Debug\EloadasProjekt.csproj.CopyComplete
+D:\feladatok\c#\EloadasProjekt\EloadasProjekt\obj\Debug\EloadasProjekt.dll
+D:\feladatok\c#\EloadasProjekt\EloadasProjekt\obj\Debug\EloadasProjekt.pdb
